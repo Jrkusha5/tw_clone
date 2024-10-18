@@ -1,8 +1,8 @@
 {
-  "name": "qwitter",
+  "name": "twClone",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "Qwitter",
+  "productName": "twClone",
   "author": "chernet",
   "private": true,
   "scripts": {
